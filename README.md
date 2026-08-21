@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Luis Fernando 👋
 
-<!--
-**fedeveloper009/fedeveloper009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ software developer passionate about building useful tools, improving developer productivity, and creating full-stack web applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+- **Languages:** Java, JavaScript, TypeScript, HTML5, CSS3
+- **Focus Areas:** Web Development, Backend Systems, Tooling & Automation
+- **Languages Spoken:** Portuguese (Native), English (B2 Intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+- 🎯 **[prompt-manager](https://github.com/fedeveloper009/prompt-manager):** Web app designed to organize and manage AI prompts in one intuitive place.
+- 🏢 **[erb-site](https://github.com/fedeveloper009/erb-site):** Business website built with TypeScript for "ERB Elétrica".
+- 🎵 **[Music-Overlord1](https://github.com/fedeveloper009/Music-Overlord1):** Java final project developed during the SENAI programming course.
+
+---
+
+### 📫 Let's Connect
+- **Email:** fedeveloper009@gmail.com
+- **LinkedIn:** [in/luis-belo009](https://linkedin.com/in/luis-belo009)
+- **Instagram:** [@07_luis.fxp](https://instagram.com/07_luis.fxp)
